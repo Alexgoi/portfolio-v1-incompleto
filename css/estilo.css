@@ -71,6 +71,7 @@ strong{
 }
 .img-eu{
     width: 35%;
+    filter: drop-shadow(10px 5px 5px aqua );
 }
 .rodape{
     padding: 24px;
